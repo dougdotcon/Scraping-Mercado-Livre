@@ -1,4 +1,4 @@
-<h1>(Scraping Mercado Livre)</h1>
+<h1>Scraping Mercado Livre</h1>
 
 This is a web scraping project done with Python and BeautifulSoup, aimed at extracting product names and prices from Mercado Livre's website. The user can enter the product name through a PySimpleGUI interface, and the results are saved in an Excel spreadsheet using openpyxl. It's a useful tool for finding good deals or comparing prices.
 
